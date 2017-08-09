@@ -39,15 +39,19 @@ cfcttdtdtrdd"/>
         app:srcCompat="@mipmap/nexticon" />
     <Button
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Contact us"
-        android:textSize="28dp"
-        android:background="@color/colorAccent"
+        android:layout_height="50dp"
+        android:padding="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
 
-        android:textColor="@color/colorAccentt"
         android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
+        android:text="Contact us"
+        android:background="@color/colorAccent"
+        android:textColor="@color/colorAccentt"
+        android:textSize="28dp" />
 
 
 </RelativeLayout>
