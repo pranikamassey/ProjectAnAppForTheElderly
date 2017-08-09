@@ -4,11 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
     tools:context="com.example.chato.symbiosis.OtherActivity">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="What do we do"
+        android:textColor="@color/colorAccent"
         android:gravity="center"
         android:textSize="42dp"
         android:layout_marginTop="54dp"
@@ -17,9 +19,12 @@
         android:id="@+id/what" />
 
     <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/what"
+        android:textColor="@color/colorAccentt"
         android:layout_centerHorizontal="true"
         android:text="Our app is vgvgvjjjjjjhhghuyuuuyubuybubu
 vgvgvggvvggv
@@ -36,6 +41,10 @@ cfcttdtdtrdd"/>
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Contact us"
+        android:textSize="28dp"
+        android:background="@color/colorAccent"
+
+        android:textColor="@color/colorAccentt"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true" />
