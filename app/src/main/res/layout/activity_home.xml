@@ -19,8 +19,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textSize="28dp"
-        android:text="Android under Construction" />
+        android:textSize="24dp"
+        android:text="This page is under Construction" />
 
 
 </LinearLayout>
