@@ -19,7 +19,9 @@
         <activity android:name=".OtherActivity" />
         <activity android:name=".YetAnotherActivity" />
         <activity android:name=".FourthActivity" />
-        <activity android:name=".DetailActivity"></activity>
+        <activity android:name=".DetailActivity" />
+        <activity android:name=".ContactActivity" />
+        <activity android:name=".HomeActivity"></activity>
     </application>
 
 </manifest>

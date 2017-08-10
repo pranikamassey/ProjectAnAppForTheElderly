@@ -13,7 +13,7 @@
         android:textColor="@color/colorAccent"
         android:gravity="center"
         android:textSize="42dp"
-        android:layout_marginTop="54dp"
+        android:layout_marginTop="30dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
         android:id="@+id/what" />
@@ -22,14 +22,16 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:layout_width="wrap_content"
+        android:gravity="center"
+        android:textSize="18dp"
         android:layout_height="wrap_content"
         android:layout_below="@+id/what"
         android:textColor="@color/colorAccentt"
         android:layout_centerHorizontal="true"
-        android:text="Our app is vgvgvjjjjjjhhghuyuuuyubuybubu
-vgvgvggvvggv
- ghfcfcfg
-cfcttdtdtrdd"/>
+        android:text="The motive of our app is to build a Synergy between the old people and children.We as an app, try to bring these two generations under one roof and make them live in a symbiotic relationship with each other.
+Contrary to widespread beliefs that older populations consume resources that would otherwise go to youth, there is growing reason to think that older people may be just the resource children need.
+And, the children the resource that these older people need, for they break the cycle of boredom and loneliness.
+This is going to favour both of these generations for the younger generation would need the wisdom and the older the liveliness."/>
     <ImageButton
         android:id="@+id/nextToCategory"
         android:layout_width="40dp"
@@ -49,6 +51,7 @@ cfcttdtdtrdd"/>
         android:layout_alignParentEnd="true"
         android:layout_alignParentStart="true"
         android:text="Contact us"
+        android:id="@+id/contactButton"
         android:background="@color/colorAccent"
         android:textColor="@color/colorAccentt"
         android:textSize="28dp" />
