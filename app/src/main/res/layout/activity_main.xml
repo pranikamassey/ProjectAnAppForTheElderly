@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/imageView"
         android:layout_centerHorizontal="true"
-        android:text="An app for the old"
+        android:text="An app for the elderly"
         android:fontFamily="cursive"
         android:textColor="@android:color/white"
         android:textSize="24dp" />
